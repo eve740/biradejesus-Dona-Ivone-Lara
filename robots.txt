@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://biradejesus.vercel.app/sitemap.xml
